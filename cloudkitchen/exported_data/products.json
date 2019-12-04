@@ -1,0 +1,8 @@
+{"_id":{"$oid":"5de4c7af04887d7c637a6587"},"code":100,"name”:”Beef Tapa“,”price":110.0}
+{"_id":{"$oid":"5de4c7af04887d7c637a6588"},"code":200,"name”:”Pork Sisig”,”price":100.0}
+{"_id":{"$oid":"5de4c7af04887d7c637a6589"},"code":300,"name”:”Tofu Sisig”,”price":100.0}
+{"_id":{"$oid":"5de4c7af04887d7c637a658a"},"code":400,"name”:”Pork Liempo”,”price":100.0}
+{"_id":{"$oid":"5de4c7af04887d7c637a658b"},"code":500,"name”:”El Primo“,”price":110.0}
+{"_id":{"$oid":"5de4c7af04887d7c637a658c"},"code":600,"name”:”Patatas Frita”,”price":100.0}
+{"_id":{"$oid":"5de4c7da04887d7c637a658d"},"code":700,"name”:”El Pollo“,”price":100.0}
+{"_id":{"$oid":"5de4c7da04887d7c637a658e"},"code":800,"name”:”La Carnita”,”price":100.0}

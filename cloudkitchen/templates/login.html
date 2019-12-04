@@ -1,0 +1,16 @@
+{% include "header.html" %}
+<h1 style="color:white">Login</h1>
+<form action="/auth" method="POST">
+   <div style="color:white">
+     Username or email address
+   </div>
+   <input type="text" name="username"></input>
+   <div style="color:white">
+     Password
+   </div>
+   <input type="password" name="password"></input>
+   <div>
+   <input type="submit" value="Login"/>
+   </div>
+</form>
+{% include "footer.html" %}
